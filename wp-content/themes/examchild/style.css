@@ -1,0 +1,18 @@
+/*
+Theme Name:     ExamChild
+Description:    
+Author:         admin
+Template:       blogus
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.boxed #product_details table tr td.price-value.big-price, .price-value.big-price, .price-value.big-price div, .product-price.big-price {
+    font-size: 25px;
+    color: black;
+}
+
+a.category-color-1 {
+    background: #C1514F !important;
+    color: #fff;
+}
